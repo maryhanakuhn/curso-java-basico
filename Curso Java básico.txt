@@ -1,0 +1,8 @@
+Curso de Java básico:
+Introdução:
+-> Introdução e Dicas para quem está começando
+- JVM - Java Virtual Machine
+- www.guj.com.br
+- www.javaranch.com
+- www.javafree.uol.com.br
+- Caelum
